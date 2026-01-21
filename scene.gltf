@@ -4121,7 +4121,7 @@
       "uri": "textures/male_casualsuit06_baseColor.png"
     },
     {
-      "uri": "textures/male_casualsuit06_normal.png"
+      "uri": "textures/male_casualsuit06_normal.jpeg"
     },
     {
       "uri": "textures/shoes02_baseColor.png"
@@ -6426,3 +6426,4 @@
     }
   ]
 }
+
